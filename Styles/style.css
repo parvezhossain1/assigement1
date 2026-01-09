@@ -134,3 +134,15 @@ span {
   font-weight: 600;
 }
 
+/* Notes section */
+.notes-section {
+  padding: 60px 0px;
+}
+.notes-section > h1 {
+  text-align: center;
+  font-size: 48px;
+}
+.notes-section > p {
+  text-align: center;
+  tab-size: 16px;
+}
