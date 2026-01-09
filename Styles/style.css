@@ -185,3 +185,43 @@ span {
   text-align: center;
   font-size: 16px;
 }
+
+/* design section */
+.design-section {
+  width: 1140px;
+  height: 600px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  gap: 50px;
+}
+.design-section-left {
+  width: 50%;
+}
+.design-section-right {
+  align-items: start;
+}
+.design-section-right > h4{
+  text-align: left;
+  font-size: 16px;
+  color: #469165;
+  font-weight: 400;
+}
+.design-section-right > h1{
+  text-align: left;
+  font-size: 48px;
+  color: #001931;
+  font-weight: 600;
+}
+.design-section-right > p {
+  text-align: left;
+  color: #627382;
+}
+.check-line{
+  display: flex;
+  gap: 5px;
+}
+.check-line > h6{
+  font-size: 16px;
+  font-weight: 400;
+}
