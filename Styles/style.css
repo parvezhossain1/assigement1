@@ -225,3 +225,20 @@ span {
   font-size: 16px;
   font-weight: 400;
 }
+
+/* Ready section */
+.ready-section{
+  width: 1140px;
+  height: 400px;
+  margin: 60px auto;
+  background-color: #F7F6F2;
+}
+.ready-section > h1 {
+  font-size: 40px;
+  font-weight: 600;
+  color: #001931;
+}
+.ready-section > p{
+  color: #627382;
+  font-size: 16px;
+}
